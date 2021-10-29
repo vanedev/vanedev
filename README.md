@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanedev
 - 👀 I’m interested in WeB Developer
-- 🌱 I’m currently learning HTML,CSS,JS,GIT
+- 🌱 I’m currently learning HTML,CSS,JS,C#,GIT
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me vanedev93@gmail.com
 
